@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+apscheduler
+httpx
+pydantic
+pydantic-settings
+python-multipart
+aiosqlite
+# For metrics if needed later
+prometheus-client

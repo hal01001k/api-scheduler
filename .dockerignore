@@ -1,0 +1,12 @@
+# Exclude common large/undesired patterns from the entire build context
+**/node_modules
+**/venv
+**/__pycache__
+**/.next
+**/.git
+**/*.db
+**/*.log
+.vscode/
+.idea/
+.DS_Store
+
